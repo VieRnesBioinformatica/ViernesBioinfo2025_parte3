@@ -31,12 +31,12 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 ## Instructores 👾
 
 - Quetzally Medina. Estudiante de doctorado
-- Jorge Alfredo Sauzo - Estudiante de la Licenciatura en Ciencias Genomicas, ENES-UNAM
+- Jorge Alfredo Suazo - Estudiante de la Licenciatura en Ciencias Genomicas, ENES-UNAM
 
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
-Staff:  Jorge Sauzo
+Staff:  Jorge Suazo
 
 ## Contenido 📌
 
