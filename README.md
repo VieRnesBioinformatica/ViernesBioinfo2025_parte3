@@ -43,7 +43,7 @@ Staff:  Jorge Suazo
 - Viernes 1. Información general del curso (7/feb/2025) - Evelia Coss e Israel Aguilar -
     + Formulario (llenar del 7 al 14 feb, revision del 14 al 21 feb)
 - Viernes 2. Introducción a R (14/feb/2025) - Israel Aguilar
-- Viernes 3. Manipulación de datos usando R (21/feb/2025) - Jorge Sauzo
+- Viernes 3. Manipulación de datos usando R (21/feb/2025) - Jorge Sauzo - 2:30 a 4:30 pm
     + Notificación de propuestas aceptadas
 - Viernes 4. Presentación de propuestas aceptadas (28/feb/2025)
     + 5 min por Presentación
