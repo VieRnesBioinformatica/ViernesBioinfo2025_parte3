@@ -64,7 +64,7 @@ Staff:  Jorge Suazo
 - Viernes 12. Introducción a Rmarkdown (2/mayo/2025) - Aline Pingarroni
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (16/mayo/2025) - Fernanda Miron
 - Viernes 14. Mini curso de metagenomica (23/mayo/2025) - Grupo de Nelly Selem 
-- Viernes 15. Mini curso de metagenomica (23/mayo/2025) (30/mayo/2025) - Grupo de Nelly Selem 
+- Viernes 15. Mini curso de metagenomica (30/mayo/2025) - Grupo de Nelly Selem 
 - Viernes 16. Aprendiendo a hacer Mapas con R (6/junio/2025) - Aline Pingarroni
 
 [Documento completo](https://docs.google.com/document/d/11o38TvNci4RLnZ-URNbu1L7dZVCgameBzre92w46bu0/edit?usp=sharing)
