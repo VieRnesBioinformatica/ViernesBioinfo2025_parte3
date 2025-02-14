@@ -37,6 +37,7 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 - Sofía Zorrilla Azcué - Estudiante de maestría y asistente de investigación, ENES-Morelia
 - Dra. Adriana Haydeé Contreras Peruyero - Posdoc de la Dra. Nelly Selem, CCM-UNAM
 - Johana Galguera
+- Dr. David Valle García
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
@@ -59,7 +60,7 @@ Staff:  Jorge Suazo
 - Viernes 8. Introducción a Quarto (28/marzo/2025) - Sofía Zorrilla
 - Viernes 9. Buenas practicas en bioinformática (4/abril/2025) - Johana Galguera
 - Viernes 10. Programacion defensiva con ggplot2  (11/abril/2025) - Evelia Coss 
-- Viernes 11. Análisis de datos de RNA-seq (25/abril/2025) - Invitado de Israel
+- Viernes 11. Análisis de datos de RNA-seq (25/abril/2025) - David Valle García
 - Viernes 12. Introducción a Rmarkdown (2/mayo/2025) - Aline Pingarroni
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (16/mayo/2025) - Fernanda Miron
 - Viernes 14. Mini curso de metagenomica (23/mayo/2025) - Grupo de Nelly Selem 
