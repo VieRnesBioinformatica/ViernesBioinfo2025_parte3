@@ -69,7 +69,13 @@ Staff:  Jorge Suazo
 
 [Documento completo](https://docs.google.com/document/d/11o38TvNci4RLnZ-URNbu1L7dZVCgameBzre92w46bu0/edit?usp=sharing)
 
+#### Viernes 2. Introducción a R
+- Fecha: 14 de febrero 2025
+- Instructor: Dr. Israel Aguilar
+- Presentacion: [Clase1](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
+
 ### Cursos propuestos
 
 - Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos (parte 2) - Dra. Maria Segovia - Julio y agosto
 - Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
+
