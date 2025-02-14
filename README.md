@@ -31,10 +31,12 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 ## Instructores 👾
 
 - Quetzally Medina. Estudiante de doctorado
-- Jorge Alfredo Suazo - Estudiante de la Licenciatura en Ciencias Genomicas, ENES-UNAM
+- Jorge Alfredo Suazo - Estudiante de la Licenciatura en Ciencias Genomicas, ENES Juriquilla-UNAM
 - Maria Fernanda Miron Toruno - Doctorado Baylor University
 - Dra. Aline Pingarroni - Profesora-Investigadora FES-Iztacala UNAM
-
+- Sofía Zorrilla Azcué - Estudiante de maestría y asistente de investigación, ENES-Morelia
+- Dra. Adriana Haydeé Contreras Peruyero - Posdoc de la Dra. Nelly Selem, CCM-UNAM
+- Johana Galguera
 
 Coordinadores: Dra. Evelia Coss y Dr. Israel Aguilar
 
@@ -51,12 +53,12 @@ Staff:  Jorge Suazo
     + 5 min por Presentación
     + Segundo formulario (3 opciones para formar grupos)
     + Aviso de grupos el 1 de marzo por correo
-- Viernes 5. Buenas practicas en bioinformática (7/marzo/2025) - Evelia Coss
-- Viernes 6. Programacion defensiva con ggplot2 (14/marzo/2025) - Evelia Coss
+- Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss y Haydeé Peruyero
+- Viernes 6. Git + Github (14/marzo/2025) - Evelia Coss y Haydeé Peruyero
 - Viernes 7. Mini curso de Alphafold2 (21/marzo/2025) - Quetzally Medina 
-- Viernes 8. Introducción a Quarto (28/marzo/2025) - Por definir
-- Viernes 9. Git + Github (4/abril/2025) - Evelia Coss
-- Viernes 10. Git + Github (11/abril/2025) - Evelia Coss
+- Viernes 8. Introducción a Quarto (28/marzo/2025) - Sofía Zorrilla
+- Viernes 9. Buenas practicas en bioinformática (4/abril/2025) - Johana Galguera
+- Viernes 10. Programacion defensiva con ggplot2  (11/abril/2025) - Evelia Coss 
 - Viernes 11. Análisis de datos de RNA-seq (25/abril/2025) - Invitado de Israel
 - Viernes 12. Introducción a Rmarkdown (2/mayo/2025) - Aline Pingarroni
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (16/mayo/2025) - Fernanda Miron
