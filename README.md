@@ -47,10 +47,11 @@ Staff:  Jorge Suazo
 
 - Viernes 1. Información general del curso (7/feb/2025) - Evelia Coss e Israel Aguilar -
     + Formulario (llenar del 7 al 14 feb, revision del 14 al 21 feb)
-- Viernes 2. Introducción a R (14/feb/2025) - Israel Aguilar
-- Viernes 3. Manipulación de datos usando R (21/feb/2025) - Jorge Sauzo - 2:30 a 4:30 pm
+- Viernes 2. Introducción a R, parte 1 (14/feb/2025) - Israel Aguilar
+- Viernes 3. Introducción a R, parte 2(21/feb/2025) - Israel Aguilar
     + Notificación de propuestas aceptadas
-- Viernes 4. Presentación de propuestas aceptadas (28/feb/2025)
+- Viernes 4. Manipulación de datos usando R (28/feb/2025) - Jorge Sauzo - 2:30 a 4:30 pm
+    + Presentación de propuestas aceptadas 
     + 5 min por Presentación
     + Segundo formulario (3 opciones para formar grupos)
     + Aviso de grupos el 1 de marzo por correo
@@ -72,6 +73,7 @@ Staff:  Jorge Suazo
 #### Viernes 2. Introducción a R
 - Fecha: 14 de febrero 2025
 - Instructor: Dr. Israel Aguilar
+- Manual: [Instalacion de R y Rstudio](https://youtube.com/playlist?list=PL3Oob5r2FcIqfJ_OsMhs40MQN8dNOJ_Oc&si=yIu7CkJQ6eSNELzN)
 - Presentacion: [Clase1](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
 
 ### Cursos propuestos
