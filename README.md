@@ -74,7 +74,8 @@ Staff:  Jorge Suazo
 - Fecha: 14 de febrero 2025
 - Instructor: Dr. Israel Aguilar
 - Manual: [Instalacion de R y Rstudio](https://youtube.com/playlist?list=PL3Oob5r2FcIqfJ_OsMhs40MQN8dNOJ_Oc&si=yIu7CkJQ6eSNELzN)
-- Presentacion: [Clase1](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
+- Presentación: [Clase1](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
+- Grabación: [Clase1](https://drive.google.com/file/d/1vr7VyyeTVvca24XMg7wulZlxtmdGwSlm/view?usp=sharing)
 
 ### Cursos propuestos
 
