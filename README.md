@@ -35,7 +35,6 @@ Se otorgará un diploma a los participantes que cuenten con el 80 % de las asist
 - Maria Fernanda Miron Toruno - Doctorado Baylor University
 - Dra. Aline Pingarroni - Profesora-Investigadora FES-Iztacala UNAM
 - Sofía Zorrilla Azcué - Estudiante de maestría y asistente de investigación, ENES-Morelia
-- Dra. Adriana Haydeé Contreras Peruyero - Posdoc de la Dra. Nelly Selem, CCM-UNAM
 - Johana Galguera
 - Dr. David Valle García
 
@@ -55,8 +54,8 @@ Staff:  Jorge Suazo
     + 5 min por Presentación
     + Segundo formulario (3 opciones para formar grupos)
     + Aviso de grupos el 1 de marzo por correo
-- Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss y Haydeé Peruyero
-- Viernes 6. Git + Github (14/marzo/2025) - Evelia Coss y Haydeé Peruyero
+- Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss
+- Viernes 6. Git + Github (14/marzo/2025) - Evelia Coss
 - Viernes 7. Mini curso de Alphafold2 (21/marzo/2025) - Quetzally Medina 
 - Viernes 8. Introducción a Quarto (28/marzo/2025) - Sofía Zorrilla
 - Viernes 9. Buenas practicas en bioinformática (4/abril/2025) - Johana Galguera
@@ -70,12 +69,14 @@ Staff:  Jorge Suazo
 
 [Documento completo](https://docs.google.com/document/d/11o38TvNci4RLnZ-URNbu1L7dZVCgameBzre92w46bu0/edit?usp=sharing)
 
-#### Viernes 2. Introducción a R
-- Fecha: 14 de febrero 2025
+#### Viernes 2 y 3. Introducción a R
+- Fecha: 14 y 21 de febrero 2025
 - Instructor: Dr. Israel Aguilar
 - Manual: [Instalacion de R y Rstudio](https://youtube.com/playlist?list=PL3Oob5r2FcIqfJ_OsMhs40MQN8dNOJ_Oc&si=yIu7CkJQ6eSNELzN)
-- Presentación: [Clase1](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
-- Grabación: [Clase1](https://drive.google.com/file/d/1vr7VyyeTVvca24XMg7wulZlxtmdGwSlm/view?usp=sharing)
+- Presentación: [Clase2y3](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
+- Grabación:
+    + [Clase2](https://drive.google.com/file/d/1vr7VyyeTVvca24XMg7wulZlxtmdGwSlm/view?usp=sharing)
+    + Clase3
 
 ### Cursos propuestos
 
