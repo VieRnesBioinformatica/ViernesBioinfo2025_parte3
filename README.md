@@ -76,7 +76,7 @@ Staff:  Jorge Suazo
 - Presentación: [Clase2y3](https://drive.google.com/file/d/1kGUXotmME5_jCd7QzlUAzLsP3RHmvwpS/view?usp=sharing)
 - Grabación:
     + [Clase2](https://drive.google.com/file/d/1vr7VyyeTVvca24XMg7wulZlxtmdGwSlm/view?usp=sharing)
-    + Clase3
+    + [Clase3](https://drive.google.com/file/d/1_k_0g5t8Tf4rUJPQYXdKwvpgPIyM0eqX/view?usp=sharing)
 
 ### Cursos propuestos
 
