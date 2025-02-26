@@ -50,11 +50,11 @@ Staff:  Jorge Suazo
 - Viernes 3. Introducción a R, parte 2(21/feb/2025) - Israel Aguilar
     + Notificación de propuestas aceptadas
 - Viernes 4. Manipulación de datos usando R (28/feb/2025) - Jorge Sauzo - 2:30 a 4:30 pm
-    + Presentación de propuestas aceptadas 
+- Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss
+    + Presentación de propuestas aceptadas (1 pm)
     + 5 min por Presentación
     + Segundo formulario (3 opciones para formar grupos)
     + Aviso de grupos el 1 de marzo por correo
-- Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss
 - Viernes 6. Git + Github (14/marzo/2025) - Evelia Coss
 - Viernes 7. Mini curso de Alphafold2 (21/marzo/2025) - Quetzally Medina 
 - Viernes 8. Introducción a Quarto (28/marzo/2025) - Sofía Zorrilla
