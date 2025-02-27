@@ -78,6 +78,15 @@ Staff:  Jorge Suazo
     + [Clase2](https://drive.google.com/file/d/1vr7VyyeTVvca24XMg7wulZlxtmdGwSlm/view?usp=sharing)
     + [Clase3](https://drive.google.com/file/d/1_k_0g5t8Tf4rUJPQYXdKwvpgPIyM0eqX/view?usp=sharing)
 
+#### Viernes 4. Manipulación de datos usando R 
+
+- Fecha: 28 de febrero 2025
+- Instructor: Jorge Sauzo
+- Horario: 2:30 a 4:30 pm
+- Material: [Clase4](https://3lconejo.shinyapps.io/Manipulacion-de-datos-con-R/#section-introducci%C3%B3n)
+- Grabación:
+
+
 ### Cursos propuestos
 
 - Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos (parte 2) - Dra. Maria Segovia - Julio y agosto
