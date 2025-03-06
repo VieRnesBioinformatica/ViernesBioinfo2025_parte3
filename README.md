@@ -84,6 +84,14 @@ Staff:  Jorge Suazo
 - Instructor: Jorge Sauzo
 - Horario: 2:30 a 4:30 pm
 - Material: [Clase4](https://3lconejo.shinyapps.io/Manipulacion-de-datos-con-R/#section-introducci%C3%B3n)
+- Grabación: [Clase4](https://drive.google.com/file/d/1WX5tgt043D9JBLTE3Jpuk_GEfq5xa4O8/view?usp=sharing)
+
+#### Viernes 4. Git + Github
+
+- Fecha: 7 y 14 de marzo 2025
+- Instructor: Evelia Coss
+- Horario: 11:30 a 13:30 pm
+- Material: [Clase5](https://eveliacoss.github.io/Workshop_GitGithub2025/)
 - Grabación:
 
 
