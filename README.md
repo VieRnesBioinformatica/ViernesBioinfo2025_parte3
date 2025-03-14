@@ -91,8 +91,10 @@ Staff:  Jorge Suazo
 - Fecha: 7 y 14 de marzo 2025
 - Instructor: Evelia Coss
 - Horario: 11:30 a 13:30 pm
-- Material: [Clase5](https://eveliacoss.github.io/Workshop_GitGithub2025/)
-- Grabación:[Clase5](https://drive.google.com/file/d/1DTEnJL8PMIBrHCFJRHTuYqOSZEv5Ux-b/view?usp=sharing)
+- Material: [Clase5y6](https://eveliacoss.github.io/Workshop_GitGithub2025/)
+- Grabación:
+      + [Clase5](https://drive.google.com/file/d/1DTEnJL8PMIBrHCFJRHTuYqOSZEv5Ux-b/view?usp=sharing)
+      + [Clase6](https://drive.google.com/file/d/1Q_UV5OfXH87l8PxW_gpYrAKil_65ckg1/view?usp=sharing)
 
 
 ### Cursos propuestos
