@@ -44,17 +44,11 @@ Staff:  Jorge Suazo
 
 ## Contenido 📌
 
-- Viernes 1. Información general del curso (7/feb/2025) - Evelia Coss e Israel Aguilar -
-    + Formulario (llenar del 7 al 14 feb, revision del 14 al 21 feb)
+- Viernes 1. Información general del curso (7/feb/2025) - Evelia Coss e Israel Aguilar 
 - Viernes 2. Introducción a R, parte 1 (14/feb/2025) - Israel Aguilar
 - Viernes 3. Introducción a R, parte 2(21/feb/2025) - Israel Aguilar
-    + Notificación de propuestas aceptadas
 - Viernes 4. Manipulación de datos usando R (28/feb/2025) - Jorge Sauzo - 2:30 a 4:30 pm
 - Viernes 5. Git + Github (7/marzo/2025) - Evelia Coss
-    + Presentación de propuestas aceptadas (1 pm)
-    + 5 min por Presentación
-    + Segundo formulario (3 opciones para formar grupos)
-    + Aviso de grupos el 1 de marzo por correo
 - Viernes 6. Git + Github (14/marzo/2025) - Evelia Coss
 - Viernes 7. Mini curso de Alphafold2 (21/marzo/2025) - Quetzally Medina 
 - Viernes 8. Introducción a Quarto (28/marzo/2025) - Sofía Zorrilla
@@ -93,9 +87,23 @@ Staff:  Jorge Suazo
 - Horario: 11:30 a 13:30 pm
 - Material: [Clase5y6](https://eveliacoss.github.io/Workshop_GitGithub2025/)
 - Grabación:
-      + [Clase5](https://drive.google.com/file/d/1DTEnJL8PMIBrHCFJRHTuYqOSZEv5Ux-b/view?usp=sharing)
-      + [Clase6](https://drive.google.com/file/d/1Q_UV5OfXH87l8PxW_gpYrAKil_65ckg1/view?usp=sharing)
+    + [Clase5](https://drive.google.com/file/d/1DTEnJL8PMIBrHCFJRHTuYqOSZEv5Ux-b/view?usp=sharing)
+    + [Clase6](https://drive.google.com/file/d/1Q_UV5OfXH87l8PxW_gpYrAKil_65ckg1/view?usp=sharing)
 
+## Proyectos
+
+Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
+
+A continuación, les compartimos un breve resumen de los proyectos presentados:
+1) **Análisis integrativo de datos en LupusRGMX: explorando nuevas perspectivas**. Palabras claves: Metadatos | resonancias magnéticas | modelos estadísticos | salud mental | WGS | Single Omics.  *Contactar a:* cDra. Ana Laura Hernandez Ledesma (annhled@gmail.com).
+2) ***C. elegans*** **como modelo de estudio de enfermedades raras y resistencia a antiparasitarios.** Palabras claves: Farmacogenómica | GWAS | Poblaciones silvestres | Comportamiento | Modelado Funcional | Metadatos. *Contactar a:* Dr. Jose Luis Tellez (sirjlister@comunidad.unam.mx).
+3) **Explorando la historia evolutiva y la genética poblacional en México a través de datos paleogenómicos.** Palabras clave: Paleogenómica | Genética de poblaciones | Evolución humana | México | Admixture | Enfermedades genéticas | Análisis interdisciplinario. *Contactar a:* Dr. Federico Sanchez (fsanchez@liigh.unam.mx). 
+4) **CAMDA: Anti-Microbial Resistance Prediction Challenge.** Palabras clave: Bioinformática | R | Python | Machine Learning | Redes neuronales | Anotación funcional | Ensamble de genomas | AMR. *Contactar a:* Dra. Haydeé Peruyero (haydeeperuyero@gmail.com)
+5) **Aprendiendo sobre la enfermedad de Parkinson en poblaciones diversas. La Red Mexicana de Investigación en Parkinson.** Palabras clave: Evaluaciones clínicas | Resonancias magnéticas | Tareas cognitivas | Salud Mental  | Estilo de vida | Genotipado de genoma completo. *Contactar a:* Dra. Paula Reyes (paularoxanarp@gmail.com)
+6) **Project JAGUAR: Descubriendo la diversidad oculta de las células inmunitarias en América Latina.** Palabras clave: Sistema inmune | LATAM | diversidad genética | Metadatos | WGS | Single Omics. *Contactar a:* cDra. Ale Schäfer (ansjb1999@gmail.com) 
+7) **Estudio paleogenómico de patógenos antiguos en individuos de la época colonial de la Ciudad de México.** Palabras clave: Paleogenómica | Patógenos antiguos| Metagenómica | Filogenómica | Evolución. *Contactar a:* cDra.Laura Carrillo (lau.carrillo.olivas89@gmail.com).
+
+Si están interesados en alguno de estos proyectos o desean más información, no duden en contactar a los expositores correspondientes.
 
 ### Cursos propuestos
 
