@@ -90,6 +90,14 @@ Staff:  Jorge Suazo
     + [Clase5](https://drive.google.com/file/d/1DTEnJL8PMIBrHCFJRHTuYqOSZEv5Ux-b/view?usp=sharing)
     + [Clase6](https://drive.google.com/file/d/1Q_UV5OfXH87l8PxW_gpYrAKil_65ckg1/view?usp=sharing)
 
+#### Viernes 7. Mini curso de Alphafold2
+
+- Fecha: 21 de marzo 2025
+- Instructor: Quetzally Medina 
+- Horario: 11:30 a 13:30 pm
+- Material: [Presentacion AlphaFold2 - Clase7](https://www.canva.com/design/DAGh1IMSryY/feEq4YBE_EpYuFbXuYqekQ/view?utm_content=DAGh1IMSryY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha716ef21ed)
+- Grabación:
+
 ## Proyectos
 
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
