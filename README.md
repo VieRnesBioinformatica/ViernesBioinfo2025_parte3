@@ -96,7 +96,7 @@ Staff:  Jorge Suazo
 - Instructor: Quetzally Medina 
 - Horario: 11:30 a 13:30 pm
 - Material: [Presentacion AlphaFold2 - Clase7](https://www.canva.com/design/DAGh1IMSryY/feEq4YBE_EpYuFbXuYqekQ/view?utm_content=DAGh1IMSryY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha716ef21ed)
-- Grabación:
+- Grabación: [Clase7-AlphaFold2](https://drive.google.com/file/d/1tG0UFDgPvI1xIpsDdOufI4npNZ0BUhXQ/view?usp=sharing)
 
 ## Proyectos
 
