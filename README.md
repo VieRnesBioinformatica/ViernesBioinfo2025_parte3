@@ -103,7 +103,7 @@ Staff:  Jorge Suazo
 - Fecha: 28 de marzo 2025
 - Instructor: Sofía Zorrilla
 - Horario: 11:30 a 13:30 pm
-- Material: [Talller de Quarto](https://github.com/sofiazorrilla/taller_quarto_ms)
+- Material: [Taller de manuscritos en Quarto](https://github.com/sofiazorrilla/taller_quarto_ms)
 
 
 ## Proyectos
