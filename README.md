@@ -98,6 +98,14 @@ Staff:  Jorge Suazo
 - Material: [Presentacion AlphaFold2 - Clase7](https://www.canva.com/design/DAGh1IMSryY/feEq4YBE_EpYuFbXuYqekQ/view?utm_content=DAGh1IMSryY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha716ef21ed)
 - Grabación: [Clase7-AlphaFold2](https://drive.google.com/file/d/1tG0UFDgPvI1xIpsDdOufI4npNZ0BUhXQ/view?usp=sharing)
 
+### Viernes 8. Introducción a Quarto
+
+- Fecha: 28 de marzo 2025
+- Instructor: Sofía Zorrilla
+- Horario: 11:30 a 13:30 pm
+- Material: [Talller de Quarto](https://github.com/sofiazorrilla/taller_quarto_ms)
+
+
 ## Proyectos
 
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
