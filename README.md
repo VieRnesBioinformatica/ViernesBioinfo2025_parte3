@@ -98,13 +98,20 @@ Staff:  Jorge Suazo
 - Material: [Presentacion AlphaFold2 - Clase7](https://www.canva.com/design/DAGh1IMSryY/feEq4YBE_EpYuFbXuYqekQ/view?utm_content=DAGh1IMSryY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha716ef21ed)
 - Grabación: [Clase7-AlphaFold2](https://drive.google.com/file/d/1tG0UFDgPvI1xIpsDdOufI4npNZ0BUhXQ/view?usp=sharing)
 
-### Viernes 8. Introducción a Quarto
+#### Viernes 8. Introducción a Quarto
 
 - Fecha: 28 de marzo 2025
 - Instructor: Sofía Zorrilla
 - Horario: 11:30 a 13:30 pm
 - Material: [Taller de manuscritos en Quarto](https://github.com/sofiazorrilla/taller_quarto_ms)
+- Grabación: [Clase8](https://drive.google.com/file/d/12_IbLy6rFcNv-JxyZY2FyIMpthFSH198/view?usp=sharing)
+  
+#### Viernes 9. Buenas practicas en bioinformática 
 
+- Fecha: 4 de abril 2025
+- Instructor: Johana Galguera
+- Horario: 12:00 a 14:00 pm
+- Grabación:
 
 ## Proyectos
 
