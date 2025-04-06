@@ -111,7 +111,7 @@ Staff:  Jorge Suazo
 - Fecha: 4 de abril 2025
 - Instructor: Johana Galguera
 - Horario: 12:00 a 14:00 pm
-- Grabación:
+- Grabación: [Clase9](https://drive.google.com/file/d/1Y-Jrw7Cb2y3jXkXj0ehmyUP_NhHCVU8S/view?usp=sharing)
 
 ## Proyectos
 
