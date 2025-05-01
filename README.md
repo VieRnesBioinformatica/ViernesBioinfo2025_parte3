@@ -113,6 +113,20 @@ Staff:  Jorge Suazo
 - Horario: 12:00 a 14:00 pm
 - Grabación: [Clase9](https://drive.google.com/file/d/1Y-Jrw7Cb2y3jXkXj0ehmyUP_NhHCVU8S/view?usp=sharing)
 
+### Viernes 11. Análisis de datos de RNA-seq 
+
+- Fecha: 25 de abril 2025
+- Instructor: Dr. David Valle García
+- Horario: 11:30 a 13:30 pm
+- Grabación: [Clase10](https://drive.google.com/file/d/1h30-Ngn0-yHgH-eOKXRBmmaTdVI1rhEa/view?usp=sharing)
+
+### Viernes 12. Introducción a Rmarkdown 
+
+- Fecha: 2 de mayo 2025
+- Instructor: Dra. Aline Pingarroni
+- Horario: 11:00 a 13:00 pm
+- Grabación:
+
 ## Proyectos
 
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
