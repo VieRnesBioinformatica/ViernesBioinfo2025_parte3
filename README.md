@@ -125,7 +125,7 @@ Staff:  Jorge Suazo
 - Fecha: 2 de mayo 2025
 - Instructor: Dra. Aline Pingarroni
 - Horario: 11:00 a 13:00 pm
-- Grabación:
+- Grabación: [Clase11](https://drive.google.com/file/d/1MW-J-gOa2J08CIvZujR1DpFHQTucQ2Mw/view?usp=sharing)
 
 ## Proyectos
 
