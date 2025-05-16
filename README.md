@@ -127,6 +127,14 @@ Staff:  Jorge Suazo
 - Horario: 11:00 a 13:00 pm
 - Grabación: [Clase11](https://drive.google.com/file/d/1MW-J-gOa2J08CIvZujR1DpFHQTucQ2Mw/view?usp=sharing)
 
+### Viernes 13. Introducción a la visualización de datos con ggplot2 
+
+- Fecha: 16 de mayo 2025
+- Instructor: Fernanda Miron
+- Horario: 11:30 a 13:30 pm
+- Grabación:
+- Material: 
+
 ## Proyectos
 
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
