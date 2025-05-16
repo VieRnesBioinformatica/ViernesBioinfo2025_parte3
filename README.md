@@ -133,7 +133,9 @@ Staff:  Jorge Suazo
 - Instructor: Fernanda Miron
 - Horario: 11:30 a 13:30 pm
 - Grabación:
-- Material: 
+- Material:
+    + [Presentacion](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2.pdf)
+    + [ggplot2_script.R](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2_script.R)
 
 ## Proyectos
 
