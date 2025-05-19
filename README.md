@@ -132,10 +132,11 @@ Staff:  Jorge Suazo
 - Fecha: 16 de mayo 2025
 - Instructor: Fernanda Miron
 - Horario: 11:30 a 13:30 pm
-- Grabación:
+- Grabación:[Clase13](https://drive.google.com/file/d/1QR_YGlJF7DFpSyx7y6_TGM8tuBk5cDqs/view?usp=drivesdk)
 - Material:
     + [Presentacion](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2.pdf)
     + [ggplot2_script.R](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2_script.R)
+ 
 
 ## Proyectos
 
