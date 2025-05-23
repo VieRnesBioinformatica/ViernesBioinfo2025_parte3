@@ -137,6 +137,13 @@ Staff:  Jorge Suazo
     + [Presentacion](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2.pdf)
     + [ggplot2_script.R](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2_script.R)
  
+### Viernes 14. Mini curso de metagenomica 
+
+- Fecha: 23 de mayo 2025
+- Instructor: David Alberto
+- Horario: 11:30 a 13:30 pm
+- Grabación:
+- Material: [Metagenomica minicurso](https://github.com/DavidAlberto/scikit-bio-class)
 
 ## Proyectos
 
