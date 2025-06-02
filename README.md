@@ -59,7 +59,7 @@ Staff:  Jorge Suazo
 - Viernes 13. Introducción a la visualización de datos con ggplot2 (16/mayo/2025) - Fernanda Miron
 - Viernes 14. Mini curso de metagenomica (23/mayo/2025) - Grupo de Nelly Selem 
 - Viernes 15. Mini curso de metagenomica (30/mayo/2025) - Grupo de Nelly Selem 
-- Viernes 16. Aprendiendo a hacer Mapas con R (6/junio/2025) - Aline Pingarroni
+- Viernes 16. Aprendiendo a hacer figuras interactivas y figuras de articulo con R (6/junio/2025) - Evelia Coss
 
 [Documento completo](https://docs.google.com/document/d/11o38TvNci4RLnZ-URNbu1L7dZVCgameBzre92w46bu0/edit?usp=sharing)
 
@@ -137,13 +137,23 @@ Staff:  Jorge Suazo
     + [Presentacion](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2.pdf)
     + [ggplot2_script.R](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3/blob/main/Clase13/ggplot2_script.R)
  
-### Viernes 14. Mini curso de metagenomica 
+### Viernes 14 y 15. Mini curso de metagenomica 
 
-- Fecha: 23 de mayo 2025
+- Fecha: 23 y 30 de mayo 2025
 - Instructor: David Alberto
 - Horario: 11:30 a 13:30 pm
 - Grabación:
+    + [Clase14](https://drive.google.com/file/d/1fyrbo4s1ydD5MGyx9AE2rvt8rfwHofdA/view?usp=sharing)
+    + [Clase15](https://drive.google.com/file/d/1x-HF7olihJ47S0kFp4qZaRR4-9QEBKXp/view?usp=sharing)
 - Material: [Metagenomica minicurso](https://github.com/DavidAlberto/scikit-bio-class)
+
+###  Viernes 16. Aprendiendo a hacer figuras interactivas y figuras de articulo con R  
+
+- Fecha: 6 de junio 2025
+- Instructor: Evelia Coss
+- Horario: 11:30 a 13:30 pm
+- Grabación:
+- Material:
 
 ## Proyectos
 
