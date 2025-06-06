@@ -152,8 +152,8 @@ Staff:  Jorge Suazo
 - Fecha: 6 de junio 2025
 - Instructor: Evelia Coss
 - Horario: 11:30 a 13:30 pm
-- Grabación:
-- Material:
+- Grabación: 
+- Material: [Workshop de Graficas Interactivas y articulos](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/)
 
 ## Proyectos
 
