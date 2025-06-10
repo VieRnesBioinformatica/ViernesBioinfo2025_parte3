@@ -186,6 +186,8 @@ Temario:
   - Anotación de impacto funcional
   - Circos plot de variantes
 
+---------------------------------------------------------------
+
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
 
 A continuación, les compartimos un breve resumen de los proyectos presentados:
