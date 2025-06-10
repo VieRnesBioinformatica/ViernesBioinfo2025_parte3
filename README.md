@@ -155,7 +155,36 @@ Staff:  Jorge Suazo
 - Grabación: 
 - Material: [Workshop de Graficas Interactivas y articulos](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/)
 
-## Proyectos
+- Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
+
+###  Viernes 20 de Junio 2025 - Minicurso - Llamado de Variantes NGS - Clase 1
+
+- Fecha: 20 de junio 2025
+- Instructor: Israel Aguilar  
+- Horario: 11:30 a 13:30 pm
+- Grabación:
+- Instalar Antes de la clase: PENDIENTE
+- Material: PENDIENTE
+
+Temario:  
+  - Conceptos Básicos para el Llamado de Variantes (NGS, coverage, WES, WGS)
+  - FileFormats del Llamado de Variantes (fastq, sam/bam/cram, vcf)
+  - Resultados Esperados en el Llamado de Variantes
+  - Qué Analisis se pueden hacer a partir del Llamado de Variantes base
+
+###  Viernes 27 de Junio 2025 - Minicurso - Llamado de Variantes NGS - Clase 2
+
+- Fecha: 27 de junio 2025
+- Instructor: Israel Aguilar  
+- Horario: 11:30 a 13:30 pm
+- Grabación:
+- Instalar Antes de la clase: PENDIENTE
+- Material: PENDIENTE
+
+Temario:  
+  - Ejemplo rápido de un llamado de variantes
+  - Anotación de impacto funcional
+  - Circos plot de variantes
 
 Los pasados viernes 7 y 14 de marzo tuvimos sesiones especiales en los VieRnes de Bioinformática, donde diversos instructores presentaron proyectos de investigación abiertos a la participación de los alumnos. El objetivo de estas presentaciones fue fomentar el networking y ofrecer oportunidades para que los asistentes exploren nuevas líneas de trabajo, colaboraciones y desarrollo académico
 
@@ -173,5 +202,4 @@ Si están interesados en alguno de estos proyectos o desean más información, n
 ### Cursos propuestos
 
 - Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos (parte 2) - Dra. Maria Segovia - Julio y agosto
-- Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
 
