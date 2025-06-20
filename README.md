@@ -152,10 +152,12 @@ Staff:  Jorge Suazo
 - Fecha: 6 de junio 2025
 - Instructor: Evelia Coss
 - Horario: 11:30 a 13:30 pm
-- Grabación: 
+- Grabación:
+    + [Parte 1](https://drive.google.com/file/d/1l12Oy8DpW81ETxbppW1N0T04TPn5EXvL/view?usp=sharing)
+    + [Parte 2](https://drive.google.com/file/d/178rlzxLCmEm8CvDUeJfoPNvd-HRx--Hv/view?usp=sharing)     
 - Material: [Workshop de Graficas Interactivas y articulos](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/)
 
-- Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
+# Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
 
 ###  Viernes 20 de Junio 2025 - Minicurso - Llamado de Variantes NGS - Clase 1
 
@@ -167,6 +169,7 @@ Staff:  Jorge Suazo
 - Material: PENDIENTE
 
 Temario:  
+ 
   - Conceptos Básicos para el Llamado de Variantes (NGS, coverage, WES, WGS)
   - FileFormats del Llamado de Variantes (fastq, sam/bam/cram, vcf)
   - Resultados Esperados en el Llamado de Variantes
