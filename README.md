@@ -153,8 +153,8 @@ Staff:  Jorge Suazo
 - Instructor: Evelia Coss
 - Horario: 11:30 a 13:30 pm
 - Grabación:
-    + [Parte 1](https://drive.google.com/file/d/1l12Oy8DpW81ETxbppW1N0T04TPn5EXvL/view?usp=sharing)
-    + [Parte 2](https://drive.google.com/file/d/178rlzxLCmEm8CvDUeJfoPNvd-HRx--Hv/view?usp=sharing)     
+    + [Clase16 - Parte 1](https://drive.google.com/file/d/1l12Oy8DpW81ETxbppW1N0T04TPn5EXvL/view?usp=sharing)
+    + [Clase16 - Parte 2](https://drive.google.com/file/d/178rlzxLCmEm8CvDUeJfoPNvd-HRx--Hv/view?usp=sharing)     
 - Material: [Workshop de Graficas Interactivas y articulos](https://eveliacoss.github.io/Workshop_GraficasInteractivas_papers/)
 
 # Curso: Llamado de variantes geneticas - Dr. Israel Aguilar - (2 clases en Junio)
@@ -206,5 +206,5 @@ Si están interesados en alguno de estos proyectos o desean más información, n
 
 ### Cursos propuestos
 
-- Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos (parte 2) - Dra. Maria Segovia - Julio y agosto
+- Curso: Bases para la inferencia filogenética, construcción, lectura e interpretación de árboles filogenéticos (parte 2) - Dra. Maria Segovia - Pospuestp hasta noviembre
 
