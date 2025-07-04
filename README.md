@@ -161,12 +161,16 @@ Staff:  Jorge Suazo
 
 ###  Viernes 20 de Junio 2025 - Minicurso - Llamado de Variantes NGS - Clase 1
 
-- Fecha: 20 de junio 2025
+- Fecha: 20 de junio 2025 & 27 de junio 2025
 - Instructor: Israel Aguilar  
 - Horario: 11:30 a 13:30 pm
 - Grabación:
-- Instalar Antes de la clase: PENDIENTE
-- Material: PENDIENTE
+  + [Variantes - Parte 1](https://drive.google.com/file/d/1KrOCVVcUnTUG55NmhT_El6ufKZegtRvk/view?usp=sharing)
+  + [Variantes - Parte 2](https://drive.google.com/file/d/12J_02QMm_wsz0Z3hRd-MkqNsajUADNYs/view?usp=sharing)
+- Instalar Antes de la clase:
+  + [Variantes - Precurso 1](https://drive.google.com/file/d/1lnX2kgqbbx09CQkU-FFMYTQQvMfHc4vy/view?usp=sharing)
+  + [Variantes - Precurso 2](https://drive.google.com/file/d/1aeMyPoswM-DSeu6UAuK1IcINypbAgNi7/view?usp=sharing)
+- Material: [PDF](https://drive.google.com/file/d/1u4KTy7xnjNv9TULH6J3StHBSgNjURqLu/view?usp=sharing)
 
 Temario:  
  
@@ -174,20 +178,6 @@ Temario:
   - FileFormats del Llamado de Variantes (fastq, sam/bam/cram, vcf)
   - Resultados Esperados en el Llamado de Variantes
   - Qué Analisis se pueden hacer a partir del Llamado de Variantes base
-
-###  Viernes 27 de Junio 2025 - Minicurso - Llamado de Variantes NGS - Clase 2
-
-- Fecha: 27 de junio 2025
-- Instructor: Israel Aguilar  
-- Horario: 11:30 a 13:30 pm
-- Grabación:
-- Instalar Antes de la clase: PENDIENTE
-- Material: PENDIENTE
-
-Temario:  
-  - Ejemplo rápido de un llamado de variantes
-  - Anotación de impacto funcional
-  - Circos plot de variantes
 
 ---------------------------------------------------------------
 
